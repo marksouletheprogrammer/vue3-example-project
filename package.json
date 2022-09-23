@@ -18,7 +18,7 @@
     "test:unit:ci": "cypress run --component --quiet --reporter spec"
   },
   "dependencies": {
-    "@mdi/font": "5.9.55",
+    "@mdi/font": "7.0.96",
     "insane": "^2.6.2",
     "marked": "^4.0.16",
     "pinia": "^2.0.14",
